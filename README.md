@@ -50,7 +50,8 @@ Ao fim do processo, a aplicação deverá conter:
 A aplicação deverá ser desenvolvida em NodeJS e poderá usar banco de dados relacional ou não-relacional. Poderá ser utilizado qualquer uma dessas tecnologias:
 - Express, AdonisJS, Koa, NestJS, etc;
 - Biblioteca de *scheduling*, ex: node-cron, node-schedule, etc;
-- Mongoose, Knex, Sequelize, etc.
+- Mongoose, Knex, Sequelize, etc;
+- Banco de dados relacional ou não relacional, ex: Postgres, MongoDb, etc.
 
 ## Dados
 Utilize os arquivos [gravacoes.json](./gravacoes.json) e [tabulacoes.json](./tabulacoes.json) como exemplo de entrada de dados e o arquivo [matchings.json](matchings.json) como exemplo de saída de dados ao realizar o processo de *matching*.
