@@ -1,5 +1,22 @@
 # Desafio back-end: matching de informações
 
+### Dependências do Projeto
+* `body-parser: ^1.19.0`
+* `express: ^4.17.1`
+* `fs: ^0.0.1-security`
+* `mongoose: ^5.10.15`
+* `node-cron: ^2.0.3`
+* `path: "^0.12.7`
+### Instalando Dependências e Rodando o Projeto
+
+```sh
+$ cd matching-informacoes
+$ yarn install
+$ yarn start
+```
+---
+
+
 ## Desafio
 Crie um webservice que receba a entrada das entidades `Gravações` e `Tabulações` em endpoints separados e armazene no banco de dados.
 
